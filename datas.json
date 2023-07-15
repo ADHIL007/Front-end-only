@@ -1,0 +1,70 @@
+{
+  "cardData": [
+    {
+      "title": "Lorem ipsum dolor sit.",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed commodo est. Pellentesque eu placerat mauris. Etiam ut maximus ante. Suspendisse varius dolor nec bibendum dignissim. Proin in diam a justo sollicitudin mattis eu sagittis nunc. In hac habitasse."
+    },
+    {
+      "title": "Lorem ipsum dolor sit.",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed commodo est. Pellentesque eu placerat mauris. Etiam ut maximus ante. Suspendisse varius dolor nec bibendum dignissim. Proin in diam a justo sollicitudin mattis eu sagittis nunc. In hac habitasse."
+    },
+    {
+      "title": "Lorem ipsum dolor sit.",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed commodo est. Pellentesque eu placerat mauris. Etiam ut maximus ante. Suspendisse varius dolor nec bibendum dignissim. Proin in diam a justo sollicitudin mattis eu sagittis nunc. In hac habitasse."
+    }
+  ],
+  "imageCardData": [
+    {
+      "imgSrc": "./assets/4837ceef-0f0d-45a0-ad45-7ae730a78f77.png",
+      "title": "Lorem ipsum dolor sit.",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed commodo est. Pellentesque eu placerat mauris. Etiam ut maximus ante. Suspendisse varius dolor nec bibendum dignissim. Proin in diam a justo sollicitudin mattis eu sagittis nunc. In hac habitasse."
+    },
+    {
+      "imgSrc": "./assets/36491e88-b255-4ed3-88f0-d559825c70bd.png",
+      "title": "Lorem ipsum dolor sit.",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed commodo est. Pellentesque eu placerat mauris. Etiam ut maximus ante. Suspendisse varius dolor nec bibendum dignissim. Proin in diam a justo sollicitudin mattis eu sagittis nunc. In hac habitasse."
+    },
+    {
+      "imgSrc": "./assets/0e1ed0de-0c13-4c65-b086-b8f7d39d689f.png",
+      "title": "Lorem ipsum dolor sit.",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed commodo est. Pellentesque eu placerat mauris. Etiam ut maximus ante. Suspendisse varius dolor nec bibendum dignissim. Proin in diam a justo sollicitudin mattis eu sagittis nunc. In hac habitasse."
+    }
+  ],
+  "objChildData": [
+    {
+      "imgSrc": "./assets/361d2404-29b9-46ab-a877-2065640259a2.png",
+      "heading": "Lorem ipsum dolor sit",
+      "desc": "adipiscing elit. Ut sed commodo est. Pellentesque eu placerat mauris. Ut maximus ante. Suspendisse varius dolor nec bibendum dignissim."
+    },
+    {
+      "imgSrc": "./assets/333bd2de-5aed-4a88-ba69-2b8650c9da52.png",
+      "heading": "Lorem ipsum dolor sit",
+      "desc": "adipiscing elit. Ut sed commodo est. Pellentesque eu placerat mauris. Ut maximus ante. Suspendisse"
+    },
+    {
+      "imgSrc": "./assets/6bfe4397-8c84-4f10-af82-d41bf461dbea.png",
+      "heading": "Lorem ipsum dolor sit",
+      "desc": "adipiscing elit. Ut sed commodo est. Pellentesque eu placerat mauris. Ut maximus ante. Suspendisse varius dolor nec bibendum dignissim."
+    }
+  ],
+  "fdcardData" : [
+    {
+      "imgsrc" :"./assets/dcbd4323-751d-4ee4-9932-aa1ebc6827a4.png",
+       "name"  : "Jhon Doe",
+       "pos" :"CEO",
+       "desc" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed commodo est. Pellentesque eu placerat mauris. Etiam ut maximus ante. Suspendisse varius dolor nec bibendum dignissim. Proin in diam a justo sollicitudin mattis eu sagittis nunc. In hac habitasse platea dictumst."
+    },
+    {
+      "imgsrc" :"./assets/d94575bc-1392-4216-84af-cfed55ac0010.png",
+       "name"  : "Amanda green",
+       "pos" :"Operations Manager",
+       "desc" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed commodo est. Pellentesque eu placerat mauris. Etiam ut maximus ante. Suspendisse varius dolor nec bibendum dignissim. Proin in diam a justo sollicitudin mattis eu sagittis nunc. In hac habitasse platea dictumst."
+    },
+    {
+      "imgsrc" :"./assets/30d7734a-8060-4b81-bce8-b09e7e7c9d6f.png",
+       "name"  : "Sam Cooper",
+       "pos" :"Customer Service Manager",
+       "desc" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed commodo est. Pellentesque eu placerat mauris. Etiam ut maximus ante. Suspendisse varius dolor nec bibendum dignissim. Proin in diam a justo sollicitudin mattis eu sagittis nunc. In hac habitasse platea dictumst."
+    }
+  ]
+}
